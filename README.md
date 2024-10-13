@@ -4,4 +4,3 @@
 
 ### Asciinema :
 [![asciicast](https://asciinema.org/a/A7cDmyrd1Sr36uBqreeIofJYs.svg)](https://asciinema.org/a/A7cDmyrd1Sr36uBqreeIofJYs)
-<a href="https://asciinema.org/a/A7cDmyrd1Sr36uBqreeIofJYs" target="_blank"><img src="https://asciinema.org/a/A7cDmyrd1Sr36uBqreeIofJYs.svg" /></a>
