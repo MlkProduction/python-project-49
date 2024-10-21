@@ -18,10 +18,10 @@ Brain Games -  это набор увлекательных игр, которы
 Думаю теперь главный вопрос всей вашей жизни, как же мне установить игры? Рассказываю:
 
 **- Склонируйте проект:**  
-`git clone https://github.com/MlkProduction/python-project-49
- cd python-project-49`
+`git clone https://github.com/MlkProduction/python-project-49`  
+`cd python-project-49`  
 **- Установите зависимости проекта:**  
-`make install'
+`make install`
 - Запускайте игры:
 
 **Brain Cal**  
