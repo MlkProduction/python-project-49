@@ -1,9 +1,8 @@
 [![Actions Status](https://github.com/MlkProduction/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MlkProduction/python-project-49/actions)
 <a href="https://codeclimate.com/github/MlkProduction/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/e2dfd2f4c01f3673c4b8/maintainability" /></a>
 
-Hello!
+Привет!
 
-Author: Georgii Malkov
 
 **Brain Games**
 Brain Games -  это набор увлекательных игр, которые помогут вам развить умственные способности и улучшить навыки решения задач! Эти игры проверят ваше логическое мышление, математическую интуицию и внимательность. 
@@ -46,3 +45,6 @@ Brain Games -  это набор увлекательных игр, которы
 
 ### Asciinema :
 [![asciicast](https://asciinema.org/a/o3KoyWVSGYDTuyFPoZ7QQogD4.svg)](https://asciinema.org/a/o3KoyWVSGYDTuyFPoZ7QQogD4)
+
+
+
