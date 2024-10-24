@@ -3,7 +3,7 @@ from brain_games.run_games import run_game
 from brain_games.games.gcd_game import brain_gcd
 
 
-QUESTION = "What is the result of the expression?"
+QUESTION = "Find the greatest common divisor of given numbers."
 
 
 def main():
