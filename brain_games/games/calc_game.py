@@ -1,5 +1,6 @@
 import random
 
+
 def brain_calc():
     random_number_one = random.randint(0, 10)
     random_number_two = random.randint(0, 10)
@@ -16,5 +17,5 @@ def brain_calc():
 
     elif random_operator == operator[2]:
         correct_answer = random_number_one * random_number_two
-    return task, correct_answer
 
+    return task, correct_answer

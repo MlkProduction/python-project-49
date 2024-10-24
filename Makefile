@@ -21,5 +21,4 @@ package-install:
 shell:
 	poetry shell
 make lint:
-	poetry run flake8 brain_games
-
+	poetry run flake8
