@@ -18,4 +18,4 @@ def brain_progression():
         progression[hidden_index] = '..'
         progression = ' '.join(str(num) for num in progression)
         correct_answer = hidden_number
-        return correct_answer, progression
+        return progression, correct_answer

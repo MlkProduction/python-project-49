@@ -1,16 +1,16 @@
 import random
 
-def IsPrime(num):
+def prime_num(num):
     d = 2
     while num % d != 0:
         d += 1
     return d == num
-correct_answer = ' '
+
 def brain_prime():
         num = random.randint(1, 100)
-        if  IsPrime(num) == True:
-            correct_answer == 'yes'
+        if prime_num(num):
+            correct_answer = 'yes'
 
-        elif  IsPrime(num) == False:
-            correct_answer == 'no'
-
+        else:
+            correct_answer = 'no'
+        return num, correct_answer
